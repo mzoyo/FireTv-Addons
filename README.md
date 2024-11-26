@@ -26,7 +26,7 @@ Configura **Acestream** en tu Fire TV Stick para reproducir contenido multimedia
 
 Descubre cómo instalar y configurar **DaddyLive** en Kodi para acceder a contenido adicional.
 
-👉 [Ir al Paso 3: Instalar DaddyLive](/documentation/step-3-daddylive.md)
+👉 [Ir al Paso 3: Instalar DaddyLive](/documentation/step3-daddylive.md)
 
 ---
 
