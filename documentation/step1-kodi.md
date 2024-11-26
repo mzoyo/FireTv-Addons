@@ -9,31 +9,31 @@ Esta guía te enseñará paso a paso cómo instalar **Kodi** en tu Amazon Fire T
 1. Enciende tu **Fire TV Stick**.
 2. Ve a **Ajustes**.
 
-   ![Ajustes](/images/1.jpg)
+   ![Ajustes](../images/1.jpg)
 
 3. Selecciona **Mi Fire TV**.
 
-   ![Mi Fire TV](/images/2.jpg)
+   ![Mi Fire TV](../images/2.jpg)
 
 4. Haz clic en **Acerca de**.
 
-   ![Acerca de](/images/3.jpg)
+   ![Acerca de](../images/3.jpg)
 
 5. Pulsa **5 veces** sobre **Fire TV Stick** para activar el menú de desarrollador. Luego vuelve al menú anterior.
 
-   ![Acerca de desarrollador](/images/4.jpg)
+   ![Acerca de desarrollador](../images/4.jpg)
 
 6. Selecciona **Opciones para desarrolladores**.
 
-   ![Opciones para desarrolladores](/images/5.jpg)
+   ![Opciones para desarrolladores](../images/5.jpg)
 
 7. Activa **Apps de origen desconocido**.
 
-   ![Apps de origen desconocido](/images/6.jpg)
+   ![Apps de origen desconocido](../images/6.jpg)
 
 8. Haz clic en **Encender**.
 
-   ![Encender](/images/7.jpg)
+   ![Encender](../images/7.jpg)
 
 ---
 
@@ -41,19 +41,19 @@ Esta guía te enseñará paso a paso cómo instalar **Kodi** en tu Amazon Fire T
 
 1. Ve al menú principal y abre la **Appstore**.
 
-   ![Appstore](/images/8.jpg)
+   ![Appstore](../images/8.jpg)
 
 2. Busca **Downloader** en la biblioteca de apps y selecciona la aplicación.
 
-   ![Biblioteca de apps](/images/9.jpg)
+   ![Biblioteca de apps](../images/9.jpg)
 
 3. Haz clic en **Descargar** para instalarla.
 
-   ![Descargar Downloader](/images/10.jpg)
+   ![Descargar Downloader](../images/10.jpg)
 
 4. Abre la aplicación Downloader.
 
-   ![Abrir Downloader](/images/11.jpg)
+   ![Abrir Downloader](../images/11.jpg)
 
 ---
 
@@ -66,23 +66,23 @@ Esta guía te enseñará paso a paso cómo instalar **Kodi** en tu Amazon Fire T
 
    _Selecciona la versión ARMV7A (32 bits)._
 
-   ![Ingresar URL de Kodi](/images/12.jpg)
+   ![Ingresar URL de Kodi](../images/12.jpg)
 
 2. Espera a que se descargue Kodi.
 
-   ![Descarga en progreso](/images/13.jpg)
+   ![Descarga en progreso](../images/13.jpg)
 
 3. Una vez descargado, selecciona **Instalar**.
 
-   ![Instalar Kodi](/images/14.jpg)
+   ![Instalar Kodi](../images/14.jpg)
 
 4. Espera a que termine la instalación.
 
-   ![Instalando Kodi](/images/15.jpg)
+   ![Instalando Kodi](../images/15.jpg)
 
 5. Cuando se complete, selecciona **Listo**.
 
-   ![Listo](/images/16.jpg)
+   ![Listo](../images/16.jpg)
 
 ---
 
@@ -90,11 +90,11 @@ Esta guía te enseñará paso a paso cómo instalar **Kodi** en tu Amazon Fire T
 
 1. Aparecerá un mensaje que te permitirá eliminar el archivo APK para liberar espacio. Selecciona **Delete**.
 
-   ![Eliminar APK](/images/17.jpg)
+   ![Eliminar APK](../images/17.jpg)
 
 2. Confirma la acción haciendo clic nuevamente en **Delete**.
 
-   ![Confirmar Delete](/images/18.jpg)
+   ![Confirmar Delete](../images/18.jpg)
 
 ---
 
@@ -102,11 +102,11 @@ Esta guía te enseñará paso a paso cómo instalar **Kodi** en tu Amazon Fire T
 
 1. Ve a **Mis apps y juegos** desde el menú principal y abre **Kodi**.
 
-   ![Abrir Kodi](/images/19.jpg)
+   ![Abrir Kodi](../images/19.jpg)
 
 2. Verás la interfaz de Kodi lista para usar.
 
-   ![Interfaz de Kodi](/images/20.jpg)
+   ![Interfaz de Kodi](../images/20.jpg)
 
 ---
 
@@ -115,23 +115,23 @@ Esta guía te enseñará paso a paso cómo instalar **Kodi** en tu Amazon Fire T
 1. Abre **Kodi**.
 2. Ve a **Ajustes**.
 
-   ![Ajustes en Kodi](/images/21.jpg)
+   ![Ajustes en Kodi](../images/21.jpg)
 
 3. Selecciona **Sistema**.
 
-   ![Sistema](/images/22.jpg)
+   ![Sistema](../images/22.jpg)
 
 4. Ve a la pestaña **Add-ons** y selecciona **Orígenes desconocidos**.
 
-   ![Orígenes desconocidos](/images/23.jpg)
+   ![Orígenes desconocidos](../images/23.jpg)
 
 5. Aparecerá un mensaje de advertencia, selecciona **Sí**.
 
-   ![Advertencia de permisos](/images/24.jpg)
+   ![Advertencia de permisos](../images/24.jpg)
 
 6. Verifica que la opción **Orígenes desconocidos** esté activada.
 
-   ![Orígenes activados](/images/25.jpg)
+   ![Orígenes activados](../images/25.jpg)
 
 ## **¡Todo listo!**
 
