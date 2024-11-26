@@ -1,49 +1,10 @@
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sources</title>
-  </head>
-  <body>
-    <p id="file-list"></p>
-
-    <script>
-      // Carpeta donde están los archivos
-      const directory = "./"; // Cambia esto si la carpeta está en otro lugar
-
-      // Función para listar archivos
-      async function listFiles() {
-        try {
-          // Llama a la API Fetch para obtener archivos (necesitarás un servidor)
-          const response = await fetch(directory);
-          if (!response.ok) throw new Error("No se pudo cargar el directorio");
-
-          const text = await response.text();
-          const parser = new DOMParser();
-          const htmlDocument = parser.parseFromString(text, "text/html");
-
-          // Encuentra los enlaces (suponiendo que usas un servidor que devuelve un listado)
-          const links = Array.from(htmlDocument.querySelectorAll("a"))
-            .map((link) => link.getAttribute("href"))
-            .filter((file) => !file.endsWith("/")); // Ignorar carpetas
-
-          // Genera dinámicamente las etiquetas <a>
-          const fileList = document.getElementById("file-list");
-          links.forEach((file) => {
-            const linkElement = document.createElement("a");
-            linkElement.href = file;
-            linkElement.textContent = file;
-            linkElement.style.display = "block"; // Cada enlace en una nueva línea
-            fileList.appendChild(linkElement);
-          });
-        } catch (error) {
-          console.error("Error listando archivos:", error);
-        }
-      }
-
-      // Llama a la función al cargar la página
-      listFiles();
-    </script>
-  </body>
-</html>
+<p>
+  <a href="repository.theblackghost-0.0.1.zip"
+    >repository.theblackghost-0.0.1.zip</a
+  >
+</p>
+<p><a href="repository.thecrew-0.0.1.zip">repository.thecrew-0.0.1.zip</a></p>
+<p><a href="repository.thecrew-0.3.7.zip">repository.thecrew-0.3.7.zip</a></p>
+<p><a href="Arena4Viewer-Mod.apk">Arena4Viewer-Mod.apk </a></p>
+<p><a href="AceStream.apk">AceStream </a></p>
+<p><a href="kodi.apk"> Kodi </a></p>
