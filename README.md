@@ -10,7 +10,7 @@ Bienvenido a este repositorio. Aquí encontrarás una guía completa para instal
 
 Aprenderás a habilitar las opciones de desarrollador, instalar la aplicación **Downloader** y usarla para descargar e instalar **Kodi** en tu Fire TV Stick.
 
-👉 [Ir al Paso 1: Instalar Kodi](/documentation/step-1-kodi.md)
+👉 [Ir al Paso 1: Instalar Kodi](/documentation/step1-kodi.md)
 
 ---
 
@@ -18,7 +18,7 @@ Aprenderás a habilitar las opciones de desarrollador, instalar la aplicación *
 
 Configura **Acestream** en tu Fire TV Stick para reproducir contenido multimedia sin problemas.
 
-👉 [Ir al Paso 2: Configurar Acestream](/documentation/step-2-acestream.md)
+👉 [Ir al Paso 2: Configurar Acestream](/documentation/step2-acestream.md)
 
 ---
 
